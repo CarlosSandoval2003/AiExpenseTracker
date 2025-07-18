@@ -1,4 +1,4 @@
-export const BASE_URL = "https://aiexpensetracker-6zga.onrender.com";
+export const BASE_URL = "walrus-app-tiuct.ondigitalocean.app";
 
 export const API_PATHS = {
     AUTH: {
